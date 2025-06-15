@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ChinaDay">
+        <file>qigan.png</file>
+    </qresource>
+</RCC>
